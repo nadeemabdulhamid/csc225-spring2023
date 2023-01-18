@@ -10,8 +10,14 @@
   See **object**.
 
 
-- camel case
-- identifier
+- **camel case**
+
+  A way of writing multi-word **identifiers** in Java where the first word starts off with a lowercase letter; all the words are written together with no spaces or dashes in between; and the initial letter of every word after the first word is capitalized, `justLikeThis`.
+
+- **identifier**
+
+  A collection of symbols that represents a name for _stuff_ (variables, classes, methods) in a program.
+
 - comment
 - class
 - field
