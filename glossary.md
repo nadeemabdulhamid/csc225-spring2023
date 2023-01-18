@@ -14,7 +14,9 @@
 - **identifier**<br>
   A collection of symbols that represents a name for _stuff_ (variables, classes, methods) in a program.
 
-- comment
+- **comment**<br>
+   Text within the source code of a program that is ignored by the computer/compiler. Often used to increase readability and clarity of code by explaining something to a human reader of the code.
+  
 - class
 - field
 - constructor
