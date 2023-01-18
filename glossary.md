@@ -14,7 +14,7 @@
 - **identifier** [w](https://en.wikipedia.org/wiki/Identifier_(computer_languages))<br>
   A collection of symbols that represents a name for _stuff_ (variables, classes, methods) in a program.
 
-- **comment** [w](https://en.wikipedia.org/wiki/Comment_(computer_programming))**<br>
+- **comment** [w](https://en.wikipedia.org/wiki/Comment_(computer_programming))<br>
    Text within the source code of a program that is ignored by the computer/compiler. Often used to increase readability and clarity of code by explaining something to a human reader of the code. Sometimes comments are used to temporarily disable portions of code from running.
   
 - class
