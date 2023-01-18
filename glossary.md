@@ -15,7 +15,7 @@
   A collection of symbols that represents a name for _stuff_ (variables, classes, methods) in a program.
 
 - **comment**<br>
-   Text within the source code of a program that is ignored by the computer/compiler. Often used to increase readability and clarity of code by explaining something to a human reader of the code.
+   Text within the source code of a program that is ignored by the computer/compiler. Often used to increase readability and clarity of code by explaining something to a human reader of the code. Sometimes comments are used to temporarily disable portions of code from running.
   
 - class
 - field
