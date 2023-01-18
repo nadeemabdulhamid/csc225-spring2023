@@ -8,13 +8,13 @@
   See **object**.
 
 
-- **camel case**<br>
+- **[camel case](https://en.wikipedia.org/wiki/Camel_case)**<br>
   A way of writing multi-word **identifiers** in Java where the first word starts off with a lowercase letter; all the words are written together with no spaces or dashes in between; and the initial letter of every word after the first word is capitalized, `justLikeThis`.
 
-- **identifier**<br>
+- **[identifier](https://en.wikipedia.org/wiki/Identifier_(computer_languages))**<br>
   A collection of symbols that represents a name for _stuff_ (variables, classes, methods) in a program.
 
-- **comment**<br>
+- **[comment](https://en.wikipedia.org/wiki/Comment_(computer_programming))**<br>
    Text within the source code of a program that is ignored by the computer/compiler. Often used to increase readability and clarity of code by explaining something to a human reader of the code. Sometimes comments are used to temporarily disable portions of code from running.
   
 - class
