@@ -14,6 +14,8 @@
 (Lecture 3)
 - class diagram
 - object diagram
+- UML
+- breakpoint
 - instance variable
 - interface
 - dispatch
