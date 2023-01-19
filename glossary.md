@@ -1,4 +1,4 @@
-* (Lecture 1)
+# (Lecture 1)
 
 - **object**<br>
   A "thing" (more concretely, a collection of binary data - bits) in a running program that has some state (representing its "characteristics") and behavior (representing what it can "do"). Objects take up memory in the computer to keep track of their information. Every object has its own space in memory, so each object has a unique identity (even if it has the same characteristics and behavior as another one). Every object in Java is created (constructed) from a class. An object is also referred to as an **instance** of a class. (See [Section 5.1.1 here](https://math.hws.edu/javanotes/c5/s1.html#OOP.1.1).)
@@ -33,9 +33,9 @@
   The process of running a Java program involves _compiling_ source code (stored in a `.java` file) to JVM (Java Virtual Machine) bytecode (stored in a `.class` file), and then executing that bytecode using another "just-in-time" compiler that translates the bytecode to the raw machine code for the computer that is being used.
 
 
-* (Lecture 2)
+# (Lecture 2)
 
-* (Lecture 3)
+# (Lecture 3)
 - class diagram
 - object diagram
 - UML
