@@ -9,9 +9,9 @@ public class SequenceTest {
         ArithmeticSeq a2 = new ArithmeticSeq(1, 0);
         ArithmeticSeq a3 = new ArithmeticSeq(0, -5);
 
-        ArithmeticSeq a1next = a1.advanceNext();
-        ArithmeticSeq a2next = a2.advanceNext();
-        ArithmeticSeq a3next = a3.advanceNext();
+        ISequence a1next = a1.advanceNext();
+        ISequence a2next = a2.advanceNext();
+        ISequence a3next = a3.advanceNext();
 
         assertEquals("increasing", a1.behavior());
         assertEquals("constant",   a2.behavior());
@@ -31,11 +31,11 @@ public class SequenceTest {
         GeometricSeq s4 = new GeometricSeq(2, -5);
         GeometricSeq s5 = new GeometricSeq(-10, 3);
 
-        GeometricSeq s1next = s1.advanceNext();
-        GeometricSeq s2next = s2.advanceNext();
-        GeometricSeq s3next = s3.advanceNext();
-        GeometricSeq s4next = s4.advanceNext();
-        GeometricSeq s5next = s5.advanceNext();
+        ISequence s1next = s1.advanceNext();
+        ISequence s2next = s2.advanceNext();
+        ISequence s3next = s3.advanceNext();
+        ISequence s4next = s4.advanceNext();
+        ISequence s5next = s5.advanceNext();
 
         assertEquals("increasing", s1.behavior());
         assertEquals("constant",   s2.behavior());
