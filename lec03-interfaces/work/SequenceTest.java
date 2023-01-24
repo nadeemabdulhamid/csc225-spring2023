@@ -21,6 +21,7 @@ public class SequenceTest {
         assertEquals(13, a1next.getCurrentValue());
         assertEquals(1,  a2next.getCurrentValue());
         assertEquals(-5, a3next.getCurrentValue());
+        assertEquals(-5, a4.advanceNext().advanceNext().getCurrentValue());
     }
 
     @Test
