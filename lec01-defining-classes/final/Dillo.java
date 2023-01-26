@@ -1,4 +1,6 @@
-// represents an armadillo in our zoo
+/** 
+  Represents an armadillo in our zoo
+*/
 class Dillo {
     int length;     // in inches
     boolean isDead;
