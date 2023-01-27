@@ -22,7 +22,7 @@
 # Practice (in class)
 
 - Using the family tree code here, complete the methods `youngestParent` and `youngestInGen` as described in `IFamTree`, so that the tests in `FamTreeTests` pass.
-  - [Starter code (zip file - download and extract the folder, then open in BlueJ)](classwork.zip)
+  - [Starter code (zip file - download and extract the folder, then open in BlueJ)](https://github.com/nadeemabdulhamid/csc225-fall2021/blob/master/lec070-accum/classwork.zip)
 
 ---
 # Assignment (for homework)
