@@ -14,7 +14,7 @@
 ---
 # Watch (before class)
 
-- tba
+- [Circular and Doubly-Linked Lists](https://mediaspace.berry.edu/media/Lecture+17+-+circular+and+doubly-linked+list/1_xhgl9dcb) [20 mins]
 
 
 ---
