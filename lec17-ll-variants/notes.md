@@ -16,6 +16,38 @@
 
 - tba
 
+
+---
+# Classwork
+
+- Starting with [the code here](start/), implement the following methods in `DLList.java`:
+
+```
+/** Add newValue to the end of this list. */
+public void addLast(int newValue)
+
+/**
+ * Add newValue right after the targetValue in the list, if it is present. If
+ * targetValue is not in the list, has no effect.
+ */
+public void addAfter(int targetValue, int newValue)
+
+/**
+ * Removes targetValue from this list, if it is present.
+ */
+public void remove(int targetValue)
+
+/**
+ * Produces true if targetValue is in the list.
+ */
+public boolean contains(int targetValue)
+
+/**
+ * Produces a text rendering of the contents of this list, separated by commas.
+ */
+public String toString()
+```
+
 ---
 # Assignment
 
