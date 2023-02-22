@@ -11,9 +11,10 @@
 
 
 ---
-# Watch (before class)
+# Classwork/Lab
 
-- tba
+- Introduction to arrays
+- Re-implement the `LeaderBoard` class from hw12/13 using an array
 
 ---
 # Assignment
