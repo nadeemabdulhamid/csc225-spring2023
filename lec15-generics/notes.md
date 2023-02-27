@@ -16,6 +16,9 @@
 
 - [Abstracting Types with Generics](https://mediaspace.berry.edu/media/Lecture+15+-+Abstracting+types+%28generics%29/1_msp5nxvt) [14 mins]
 
+# Watch (for lab)
+
+- [Function Objects lecture](https://mediaspace.berry.edu/media/Lecture+15a+-+Function+Objects/1_owcfhjde) [27 mins]
 
 
 ---
@@ -28,5 +31,3 @@
 # Links
 
 - [Access controls on class members](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-
-- [Function Objects lecture](https://mediaspace.berry.edu/media/Lecture+15a+-+Function+Objects/1_owcfhjde) [27 mins]
