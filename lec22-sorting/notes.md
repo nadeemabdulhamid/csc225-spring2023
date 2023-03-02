@@ -1,4 +1,4 @@
-# Lecture 35: Sorting algorithms: quadratic sorts
+# Lecture 22: Sorting algorithms
 
 # Objectives
 
@@ -6,7 +6,7 @@
 - how to analyze sorting algorithms
   
 ## BE ABLE TO:
-- recognize the operation of common quadratic sorts (insertion/selection)
+- recognize the operation of some common sorts (insertion/selection/merge/quick)
 
 
 ---
@@ -23,5 +23,11 @@
 
 - [Bucket sort code](BucketSort.java)
 
+
+---
+# Links & References
+
+- [Sorting algorithm animations](http://www.sorting-algorithms.com/)
+- [Sorting algorithms visualised using Hungarian folk dances](http://www.youtube.com/user/AlgoRythmics)
 
 
