@@ -26,7 +26,7 @@
 ---
 # Assignment
 
-- [Here](work/hw24.md)
+- [Here](work/hw24.md)  (We will work on this in lab tomorrow)
 
 
 ---
