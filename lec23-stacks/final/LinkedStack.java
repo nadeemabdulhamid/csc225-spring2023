@@ -21,14 +21,15 @@ public class LinkedStack<T> implements IStack<T> {
   
 
   public T push(T item) {
-    // TODO: fill this in
-    return null;
+    top = new Node(item, top);
+    return item;
   }
 
 
   public T pop() {
-    // TODO: fill this in
-    return null;
+    T item = peek();
+    top = top.next;
+    return item;
   }
 
 
@@ -36,9 +37,7 @@ public class LinkedStack<T> implements IStack<T> {
     if (top == null) {
       throw new NoSuchElementException("Stack is empty");
     }
-    
-    // TODO: fill this in
-    return null;
+    return top.data;
   }
 
 

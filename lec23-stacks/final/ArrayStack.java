@@ -21,10 +21,8 @@ public class ArrayStack<T> implements IStack<T> {
       // TODO:   fix this...
       // https://opendatastructures.org/ods-java/2_1_ArrayStack_Fast_Stack_O.html#SECTION00512000000000000000
     }
-
-    // TODO: fill this in
-        
-    return null;
+    array[size++] = item;
+    return item;
   }
 
   
@@ -32,10 +30,9 @@ public class ArrayStack<T> implements IStack<T> {
     if (size == 0) {
       throw new NoSuchElementException("Cannot pop from empty stack");
     }
-    
-    // TODO: fill this in
-    
-    return null;    
+    T result = array[size-1];
+    array[--size] = null;  // being careful 
+    return result;
   }
 
   
@@ -43,10 +40,7 @@ public class ArrayStack<T> implements IStack<T> {
     if (size == 0) {
       throw new NoSuchElementException("Cannot peek into empty stack");
     }
-    
-    // TODO: fill this in
-    
-    return null;
+    return array[size - 1];
   }
   
 
