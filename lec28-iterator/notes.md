@@ -13,6 +13,8 @@
 ---
 # Lecture Notes
 
+- [Starter code](lec28-iterator.zip)
+
 - [Code from lecture](in-class/)
 
 ---
