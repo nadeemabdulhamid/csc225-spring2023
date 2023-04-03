@@ -3,6 +3,8 @@
 import java.util.NoSuchElementException;
 import java.util.*;
 
+
+
 public class ArrayStack<T> implements Iterable<T>, IStack<T> {
   private final static int CAPACITY = 40;
   

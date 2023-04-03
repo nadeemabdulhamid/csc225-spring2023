@@ -17,6 +17,18 @@ public class Range implements Iterable<Integer> {
         this.stop = stop;
         this.step = step;
     }
+
+    
+    public boolean equals(Object x) {
+        
+        
+
+        Range rx = (Range) x;
+        return this.start == rx.start && 
+                this.stop == rx.stop &&
+                this.step == rx.step;
+    }
+    
     
     public Iterator<Integer> iterator() {
         return new RI();
