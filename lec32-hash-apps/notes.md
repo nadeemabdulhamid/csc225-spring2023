@@ -16,7 +16,7 @@
 
 # Lecture Slides & Code
 
-- 
+- [Starter code](/start)
 
 
 # Assignment
