@@ -1,4 +1,4 @@
-# Lecture 34-36: Priority-queues; Heaps; Comparators
+# Lecture 34-37: Priority-queues; Heaps; Comparators; Huffman Encoding
 
 # Objectives
 
@@ -9,6 +9,7 @@
   
 ## BE ABLE TO:
 - implement heap methods
+- implement a Huffman encoding algorithm to compress/decompress text files
 
 
 ---
@@ -34,8 +35,9 @@
 
 # Assignment
 
-- [Part 1](work/hw36a.md)
-- [Part 2](work/hw36b.md)
+[Final Project]
+- [Part 1 - Compression / Huffman Encoding](work/hw37a.md)
+- [Part 2 - Decompression](work/hw37b.md)
 
 
 # Links
