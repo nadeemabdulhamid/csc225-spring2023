@@ -28,7 +28,7 @@
 
 - Go over `sink`
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (Here's [some tests](./MedianFinderTest.java).)
-  Use the Java library [PriorityQueue](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/PriorityQueue.html).
+  Use the Java library [PriorityQueue](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/PriorityQueue.html). Create a BlueJ project named `hw35-median`.
 - Talk about `Comparator`
 - Huffman Encoding preview
 
