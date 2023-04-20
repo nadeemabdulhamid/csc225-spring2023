@@ -24,6 +24,32 @@
 
 - https://leetcode.com/problems/min-cost-to-connect-all-points/
 
+Helper code:
+```
+static class Edge implements Comparable<Edge> {
+		int i, j, wgt;
+
+		public Edge(int i, int j, int wgt) {
+			super();
+			this.i = i;
+			this.j = j;
+			this.wgt = wgt;
+		}
+
+		public int compareTo(Edge other) {
+			return other.wgt - this.wgt;
+		}
+
+		public String toString() {
+			return "Edge [i=" + i + ", j=" + j + ", wgt=" + wgt + "]";
+		}
+	}
+	
+	public int dist(int[] ptA, int[] ptB) {
+		return Math.abs(ptA[0] - ptB[0]) + Math.abs(ptA[1] - ptB[1]);
+	}
+```
+
 
 # Friday Activity
 
