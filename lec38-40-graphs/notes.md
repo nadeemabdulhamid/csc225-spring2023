@@ -20,6 +20,16 @@
 - [Undirected Graphs](https://algs4.cs.princeton.edu/lectures/keynote/41UndirectedGraphs.pdf)
 
 
+# Lab
+
+- https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+
+# Friday Activity
+
+- https://leetcode.com/problems/number-of-provinces/
+
+
 ---
 
 # Notes
