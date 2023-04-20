@@ -53,6 +53,8 @@ static class Edge implements Comparable<Edge> {
 
 # Friday Activity
 
+(No class meeting)
+
 - Fill in course evaluations
 - https://leetcode.com/problems/number-of-provinces/
 
