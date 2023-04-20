@@ -55,6 +55,26 @@ static class Edge implements Comparable<Edge> {
 
 - https://leetcode.com/problems/number-of-provinces/
 
+```
+Sketch of an algorithm:
+
+ Create an array of booleans, `visited`, where `visited[i]` means that 
+ city `i` has been taken into account and counted as part of a province.
+ 
+ Go through cities 0 through N:
+ 	if any one is not visited:
+ 		increment the number of provinces
+ 		perform a DFS from that city
+ 		
+ Return the number of provinces
+ 
+
+DFS(i): depth-first search from city #i
+	set `visited[i]` to true
+	for all cities, j, 0 through N:
+		if j is not i AND j is not visited already AND i is connected to j:
+			recursively DFS from j
+```
 
 ---
 
