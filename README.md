@@ -1,5 +1,7 @@
 # CSC225 - Spring 2023 - Code Repository
 
+(Scroll up!)
+
 For each lecture (corresponding to a 50-minute class meeting period), there is a directory containing:
 
 - `notes.md`: a document containing
